@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-03T21:00:51.009Z",
-  "count": 16,
+  "generated": "2026-08-03T21:03:24.360Z",
+  "count": 17,
   "files": [
     {
       "path": "client/optional/want-maps-by-default/xaeroworldmap-neoforge-1.21.1-1.44.2.jar",
@@ -36,6 +36,13 @@
       "group": "",
       "size": 89367,
       "sha1": "a6d1171e884c3540f120a58c681b7088f2eab36b"
+    },
+    {
+      "path": "client/required/citadel-2.7.1-1.21.1.jar",
+      "name": "citadel-2.7.1-1.21.1.jar",
+      "group": "",
+      "size": 3033076,
+      "sha1": "0946a99d2c3bd22a21722b5921015990ef408bff"
     },
     {
       "path": "client/required/cloth-config-15.0.140-neoforge.jar",
