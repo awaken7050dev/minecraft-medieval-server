@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-03T17:25:22.842Z",
-  "count": 16,
+  "generated": "2026-08-03T17:28:12.013Z",
+  "count": 15,
   "files": [
     {
       "path": "client/optional/want-maps-by-default/xaeroworldmap-neoforge-1.21.1-1.44.2.jar",
@@ -8,13 +8,6 @@
       "group": "want-maps-by-default",
       "size": 1418918,
       "sha1": "8031c828a44e78f4a309da97eca76b9f6740cdd0"
-    },
-    {
-      "path": "client/optional/want-shaders-support/iris-neoforge-1.8.12+mc1.21.1.jar",
-      "name": "iris-neoforge-1.8.12+mc1.21.1.jar",
-      "group": "want-shaders-support",
-      "size": 2438548,
-      "sha1": "edb687d2d65a3ae9caa82b986e87ac707615871b"
     },
     {
       "path": "client/required/[1.21.1-neoforge]-Siege-Machines-1.33.jar",
