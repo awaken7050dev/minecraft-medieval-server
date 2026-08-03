@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-03T19:19:28.432Z",
-  "count": 15,
+  "generated": "2026-08-03T21:00:19.116Z",
+  "count": 16,
   "files": [
     {
       "path": "client/optional/want-maps-by-default/xaeroworldmap-neoforge-1.21.1-1.44.2.jar",
@@ -15,6 +15,13 @@
       "group": "",
       "size": 1864081,
       "sha1": "077972524d6841c89ae0aaa7aa6f0e2f321d0514"
+    },
+    {
+      "path": "client/required/alexsmobs-1.22.17.jar",
+      "name": "alexsmobs-1.22.17.jar",
+      "group": "",
+      "size": 26620546,
+      "sha1": "4ad2734a599579c5a129e9dd50c6cbc715e15a1b"
     },
     {
       "path": "client/required/architectury-13.0.11-neoforge.jar",
