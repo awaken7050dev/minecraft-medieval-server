@@ -1,7 +1,7 @@
 {
-  "generated": "2026-08-04T12:01:00.008Z",
+  "generated": "2026-08-04T20:09:26.140Z",
   "serverIp": "wills-gardens.tun.ply.gg",
-  "count": 17,
+  "count": 20,
   "files": [
     {
       "path": "client/optional/want-maps-by-default/xaeroworldmap-neoforge-1.21.1-1.44.2.jar",
@@ -30,6 +30,13 @@
       "group": "",
       "size": 584734,
       "sha1": "8a0563d0edcde8a81c712408603ecebc412099fb"
+    },
+    {
+      "path": "client/required/block_factorys_bosses-2.1.2-neo-1.21.1.jar",
+      "name": "block_factorys_bosses-2.1.2-neo-1.21.1.jar",
+      "group": "",
+      "size": 23943105,
+      "sha1": "e5da41d24033ff166f91a879cd2255303426cb9d"
     },
     {
       "path": "client/required/chat_heads-0.15.3-neoforge-1.21.jar",
@@ -93,6 +100,20 @@
       "group": "",
       "size": 630584,
       "sha1": "4f667d74d348270fadb3e06f054fbebc2667fe5c"
+    },
+    {
+      "path": "client/required/immersive_armors-1.7.6+1.21.1-neoforge.jar",
+      "name": "immersive_armors-1.7.6+1.21.1-neoforge.jar",
+      "group": "",
+      "size": 1274167,
+      "sha1": "1156f9544f5da3269030d52e8a2cecb11f041b4b"
+    },
+    {
+      "path": "client/required/mcw-furniture-3.4.1-mc1.21.1neoforge.jar",
+      "name": "mcw-furniture-3.4.1-mc1.21.1neoforge.jar",
+      "group": "",
+      "size": 2080436,
+      "sha1": "58b4db066b9f6fb2a8e2b4e77f710d85d2172783"
     },
     {
       "path": "client/required/ritchiesprojectilelib-2.1.2+mc.1.21.1-neoforge.jar",
