@@ -1,7 +1,7 @@
 {
-  "generated": "2026-08-04T23:07:49.918Z",
+  "generated": "2026-08-04T23:50:53.235Z",
   "serverIp": "wills-gardens.tun.ply.gg",
-  "count": 20,
+  "count": 22,
   "files": [
     {
       "path": "client/optional/want-maps-by-default/xaeroworldmap-neoforge-1.21.1-1.44.2.jar",
@@ -95,6 +95,13 @@
       "sha1": "7337d020956e127142f44471a13c97b5c164b8b2"
     },
     {
+      "path": "client/required/ferritecore-7.0.3-neoforge.jar",
+      "name": "ferritecore-7.0.3-neoforge.jar",
+      "group": "",
+      "size": 121559,
+      "sha1": "a2d53841440dc5d7b86a683087fb06aad5b5482a"
+    },
+    {
       "path": "client/required/geckolib-neoforge-1.21.1-4.9.2.jar",
       "name": "geckolib-neoforge-1.21.1-4.9.2.jar",
       "group": "",
@@ -114,6 +121,13 @@
       "group": "",
       "size": 2080436,
       "sha1": "58b4db066b9f6fb2a8e2b4e77f710d85d2172783"
+    },
+    {
+      "path": "client/required/modernfix-neoforge-5.27.20+mc1.21.1.jar",
+      "name": "modernfix-neoforge-5.27.20+mc1.21.1.jar",
+      "group": "",
+      "size": 599474,
+      "sha1": "8643d709c2c7f878ef8db296ce6ab381c3130e03"
     },
     {
       "path": "client/required/ritchiesprojectilelib-2.1.2+mc.1.21.1-neoforge.jar",
