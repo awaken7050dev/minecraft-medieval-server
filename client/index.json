@@ -1,7 +1,7 @@
 {
-  "generated": "2026-08-05T18:24:45.550Z",
-  "serverIp": "wills-gardens.tun.ply.gg",
-  "count": 22,
+  "generated": "2026-08-05T21:23:34.774Z",
+  "serverIp": "katherine-vanish.tun.ply.gg",
+  "count": 31,
   "files": [
     {
       "path": "client/optional/want-maps-by-default/xaeroworldmap-neoforge-1.21.1-1.44.2.jar",
@@ -18,6 +18,20 @@
       "sha1": "55e2194ee433ce8814e4a3dd199ad1dfe5f23cb6"
     },
     {
+      "path": "client/required/GnKinetics-1.21.1-1.0m.jar",
+      "name": "GnKinetics-1.21.1-1.0m.jar",
+      "group": "",
+      "size": 560814,
+      "sha1": "4e32a4595af20f375e1b41301d7ca6e6e1ce76d2"
+    },
+    {
+      "path": "client/required/LightAura-8.1.0.jar",
+      "name": "LightAura-8.1.0.jar",
+      "group": "",
+      "size": 21393,
+      "sha1": "dcf45168cfac086e47d8dc0776aa18b9ff17abe6"
+    },
+    {
       "path": "client/required/[1.21.1-neoforge]-Siege-Machines-1.33.jar",
       "name": "[1.21.1-neoforge]-Siege-Machines-1.33.jar",
       "group": "",
@@ -30,6 +44,13 @@
       "group": "",
       "size": 26620546,
       "sha1": "4ad2734a599579c5a129e9dd50c6cbc715e15a1b"
+    },
+    {
+      "path": "client/required/almostunified-neoforge-1.21.1-1.4.2.jar",
+      "name": "almostunified-neoforge-1.21.1-1.4.2.jar",
+      "group": "",
+      "size": 295093,
+      "sha1": "cc2917829a5f3763c562b83062e7f77ef2281d2a"
     },
     {
       "path": "client/required/architectury-13.0.11-neoforge.jar",
@@ -74,6 +95,27 @@
       "sha1": "acef0f5d384307f52a5e7e36492018c7d680ff53"
     },
     {
+      "path": "client/required/create_aeronautics_transmission_linkage-0.2.5.jar",
+      "name": "create_aeronautics_transmission_linkage-0.2.5.jar",
+      "group": "",
+      "size": 666943,
+      "sha1": "471f07ac3657d91b9112b6c4aabe8cf95aabab2d"
+    },
+    {
+      "path": "client/required/create_factory-0.7a-1.21.1.jar",
+      "name": "create_factory-0.7a-1.21.1.jar",
+      "group": "",
+      "size": 211171,
+      "sha1": "f7f2a370b2e0eaf39e91c93b269aef3141408f51"
+    },
+    {
+      "path": "client/required/createaddoncompatibility-neoforge-1.21.1-1.0.0.jar",
+      "name": "createaddoncompatibility-neoforge-1.21.1-1.0.0.jar",
+      "group": "",
+      "size": 158395,
+      "sha1": "743143994f85455a5c9edd729923d3dd202ba3fb"
+    },
+    {
       "path": "client/required/createbigcannons-5.11.7+mc.1.21.1.jar",
       "name": "createbigcannons-5.11.7+mc.1.21.1.jar",
       "group": "",
@@ -81,11 +123,25 @@
       "sha1": "e74bdf1f641682ea74d0a1d69a13b2d63493f981"
     },
     {
+      "path": "client/required/createdeco-2.1.3.jar",
+      "name": "createdeco-2.1.3.jar",
+      "group": "",
+      "size": 3328498,
+      "sha1": "3f3c631dd31a6d154c652eb295bd7db878b4b899"
+    },
+    {
       "path": "client/required/createdieselgenerators-1.21.1-1.3.15.jar",
       "name": "createdieselgenerators-1.21.1-1.3.15.jar",
       "group": "",
       "size": 3154746,
       "sha1": "16f7d70adf151c175ebf33a0ec4b3fb7a8cda214"
+    },
+    {
+      "path": "client/required/evenmoreinstruments-neoforge-1.21-1.21.1-6.1.4.jar",
+      "name": "evenmoreinstruments-neoforge-1.21-1.21.1-6.1.4.jar",
+      "group": "",
+      "size": 6663854,
+      "sha1": "6d32d096bdb24f3f08a242a47933ce6c9af1f562"
     },
     {
       "path": "client/required/fantasy_armor-neoforge-1.2.4-1.21.1.jar",
@@ -107,6 +163,13 @@
       "group": "",
       "size": 630584,
       "sha1": "4f667d74d348270fadb3e06f054fbebc2667fe5c"
+    },
+    {
+      "path": "client/required/genshinstrument-neoforge-1.21-1.21.1-5.1.jar",
+      "name": "genshinstrument-neoforge-1.21-1.21.1-5.1.jar",
+      "group": "",
+      "size": 7056535,
+      "sha1": "42e7727f871ffbab67a1a5f180b4fd0942c9806e"
     },
     {
       "path": "client/required/immersive_armors-1.7.6+1.21.1-neoforge.jar",
