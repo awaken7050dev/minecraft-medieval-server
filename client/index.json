@@ -1,7 +1,7 @@
 {
-  "generated": "2026-08-05T07:09:23.913Z",
+  "generated": "2026-08-05T07:10:35.793Z",
   "serverIp": "wills-gardens.tun.ply.gg",
-  "count": 23,
+  "count": 22,
   "files": [
     {
       "path": "client/optional/want-maps-by-default/xaeroworldmap-neoforge-1.21.1-1.44.2.jar",
@@ -37,13 +37,6 @@
       "group": "",
       "size": 584734,
       "sha1": "8a0563d0edcde8a81c712408603ecebc412099fb"
-    },
-    {
-      "path": "client/required/block_factorys_bosses-2.1.2-neo-1.21.1.jar",
-      "name": "block_factorys_bosses-2.1.2-neo-1.21.1.jar",
-      "group": "",
-      "size": 23943105,
-      "sha1": "e5da41d24033ff166f91a879cd2255303426cb9d"
     },
     {
       "path": "client/required/chat_heads-0.15.3-neoforge-1.21.jar",
