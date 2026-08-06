@@ -1,15 +1,8 @@
 {
-  "generated": "2026-08-06T08:59:45.438Z",
+  "generated": "2026-08-06T09:01:54.726Z",
   "serverIp": "katherine-vanish.tun.ply.gg",
   "count": 38,
   "files": [
-    {
-      "path": "client/optional/want-maps-by-default/xaeroworldmap-neoforge-1.21.1-1.44.2.jar",
-      "name": "xaeroworldmap-neoforge-1.21.1-1.44.2.jar",
-      "group": "want-maps-by-default",
-      "size": 1418918,
-      "sha1": "8031c828a44e78f4a309da97eca76b9f6740cdd0"
-    },
     {
       "path": "client/optional/want-shaders-by-default/iris-neoforge-1.8.14-beta.1+mc1.21.1.jar",
       "name": "iris-neoforge-1.8.14-beta.1+mc1.21.1.jar",
@@ -268,6 +261,13 @@
       "group": "",
       "size": 14044632,
       "sha1": "f89ad7480031f11d1169da5ad1e4bd5d45ed1a20"
+    },
+    {
+      "path": "client/required/xaeroworldmap-neoforge-1.21.1-1.44.2.jar",
+      "name": "xaeroworldmap-neoforge-1.21.1-1.44.2.jar",
+      "group": "",
+      "size": 1418918,
+      "sha1": "8031c828a44e78f4a309da97eca76b9f6740cdd0"
     }
   ]
 }
