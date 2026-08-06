@@ -1,7 +1,7 @@
 {
-  "generated": "2026-08-05T23:48:21.779Z",
+  "generated": "2026-08-06T08:59:45.438Z",
   "serverIp": "katherine-vanish.tun.ply.gg",
-  "count": 32,
+  "count": 38,
   "files": [
     {
       "path": "client/optional/want-maps-by-default/xaeroworldmap-neoforge-1.21.1-1.44.2.jar",
@@ -186,6 +186,13 @@
       "sha1": "1156f9544f5da3269030d52e8a2cecb11f041b4b"
     },
     {
+      "path": "client/required/kotlinforforge-5.12.0-all.jar",
+      "name": "kotlinforforge-5.12.0-all.jar",
+      "group": "",
+      "size": 7279264,
+      "sha1": "49c49c7d71fcd537247c1138d14745520c6807a6"
+    },
+    {
       "path": "client/required/mcw-furniture-3.4.1-mc1.21.1neoforge.jar",
       "name": "mcw-furniture-3.4.1-mc1.21.1neoforge.jar",
       "group": "",
@@ -198,6 +205,27 @@
       "group": "",
       "size": 599474,
       "sha1": "8643d709c2c7f878ef8db296ce6ab381c3130e03"
+    },
+    {
+      "path": "client/required/plasmovoice-neoforge-1.21.1-2.1.13.jar",
+      "name": "plasmovoice-neoforge-1.21.1-2.1.13.jar",
+      "group": "",
+      "size": 12304232,
+      "sha1": "2e9a7d994fb2a205c37e36eeb1781f5a7b70fd68"
+    },
+    {
+      "path": "client/required/pv-addon-sculk-1.1.0.jar",
+      "name": "pv-addon-sculk-1.1.0.jar",
+      "group": "",
+      "size": 14035,
+      "sha1": "5d2b40d70b1eb4dd86adc5ee1bf500c43b51a20f"
+    },
+    {
+      "path": "client/required/pv-addon-soundphysics-1.1.2.jar",
+      "name": "pv-addon-soundphysics-1.1.2.jar",
+      "group": "",
+      "size": 16176,
+      "sha1": "d178e81ed8659c70bf0ffb39fabd87d6c862528c"
     },
     {
       "path": "client/required/ritchiesprojectilelib-2.1.2+mc.1.21.1-neoforge.jar",
@@ -226,6 +254,20 @@
       "group": "",
       "size": 1291418,
       "sha1": "28c56a25bc3d527d5cbc337608cddde0a5a43fbd"
+    },
+    {
+      "path": "client/required/sound-physics-remastered-neoforge-1.21.1-1.5.1.jar",
+      "name": "sound-physics-remastered-neoforge-1.21.1-1.5.1.jar",
+      "group": "",
+      "size": 202454,
+      "sha1": "804e1a56cc40dd1a97a49e58f757dc1bd0c8bcb0"
+    },
+    {
+      "path": "client/required/valkyrienskies-1-21-1-2.3.0-beta.8+35e8864bfe_unofficial.jar",
+      "name": "valkyrienskies-1-21-1-2.3.0-beta.8+35e8864bfe_unofficial.jar",
+      "group": "",
+      "size": 14044632,
+      "sha1": "f89ad7480031f11d1169da5ad1e4bd5d45ed1a20"
     }
   ]
 }
