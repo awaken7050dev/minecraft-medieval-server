@@ -1,7 +1,7 @@
 {
-  "generated": "2026-08-08T15:35:04.949Z",
+  "generated": "2026-08-08T20:43:35.488Z",
   "serverIp": "katherine-vanish.tun.ply.gg",
-  "count": 38,
+  "count": 46,
   "files": [
     {
       "path": "client/optional/want-shaders-by-default/iris-neoforge-1.8.14-beta.1+mc1.21.1.jar",
@@ -18,11 +18,25 @@
       "sha1": "4e32a4595af20f375e1b41301d7ca6e6e1ce76d2"
     },
     {
+      "path": "client/required/L_Ender's Cataclysm 1.21.1-3.32.jar",
+      "name": "L_Ender's Cataclysm 1.21.1-3.32.jar",
+      "group": "",
+      "size": 73362730,
+      "sha1": "99a7fb9514feacb42832c5bf6f03bea97fcdfc27"
+    },
+    {
       "path": "client/required/LightAura-8.1.0.jar",
       "name": "LightAura-8.1.0.jar",
       "group": "",
       "size": 21393,
       "sha1": "dcf45168cfac086e47d8dc0776aa18b9ff17abe6"
+    },
+    {
+      "path": "client/required/MedievalCraft(Weapons)-1.21.1-1.0.0.jar",
+      "name": "MedievalCraft(Weapons)-1.21.1-1.0.0.jar",
+      "group": "",
+      "size": 748015,
+      "sha1": "86920a313d38c2030a8acb0129ae2934d73e131c"
     },
     {
       "path": "client/required/[1.21.1-neoforge]-Siege-Machines-1.33.jar",
@@ -95,6 +109,13 @@
       "sha1": "acef0f5d384307f52a5e7e36492018c7d680ff53"
     },
     {
+      "path": "client/required/create-gunsmithing-1.21.1-1.4.9.jar",
+      "name": "create-gunsmithing-1.21.1-1.4.9.jar",
+      "group": "",
+      "size": 1819221,
+      "sha1": "25c86d1ca2e83d15576cd426ca1d14a3fcbc594b"
+    },
+    {
       "path": "client/required/create_aeronautics_transmission_linkage-0.2.5.jar",
       "name": "create_aeronautics_transmission_linkage-0.2.5.jar",
       "group": "",
@@ -135,6 +156,20 @@
       "group": "",
       "size": 3154746,
       "sha1": "16f7d70adf151c175ebf33a0ec4b3fb7a8cda214"
+    },
+    {
+      "path": "client/required/createfood-neoforge-1.21.1-2.7.0.jar",
+      "name": "createfood-neoforge-1.21.1-2.7.0.jar",
+      "group": "",
+      "size": 9489198,
+      "sha1": "ecde7696aa30fda894d9cd65f729d27eaf73ba9f"
+    },
+    {
+      "path": "client/required/curios-neoforge-9.5.1+1.21.1.jar",
+      "name": "curios-neoforge-9.5.1+1.21.1.jar",
+      "group": "",
+      "size": 410690,
+      "sha1": "bdd9486dd124095a294a753abf3af1b9ac0d7467"
     },
     {
       "path": "client/required/evenmoreinstruments-neoforge-1.21-1.21.1-6.1.4.jar",
@@ -193,6 +228,20 @@
       "sha1": "e428906755e7f89d964baead4258ed76200fb166"
     },
     {
+      "path": "client/required/legendary_monsters-2.1.21 MC 1.21.1.jar",
+      "name": "legendary_monsters-2.1.21 MC 1.21.1.jar",
+      "group": "",
+      "size": 44614187,
+      "sha1": "885b6956d6fcc634ed8c1bb318ec33102d6d7189"
+    },
+    {
+      "path": "client/required/lionfishapi-3.1.jar",
+      "name": "lionfishapi-3.1.jar",
+      "group": "",
+      "size": 91596,
+      "sha1": "1d23da998c205da85d1765fa2a889dc60f8e2073"
+    },
+    {
       "path": "client/required/mcw-furniture-3.4.1-mc1.21.1neoforge.jar",
       "name": "mcw-furniture-3.4.1-mc1.21.1neoforge.jar",
       "group": "",
@@ -205,6 +254,13 @@
       "group": "",
       "size": 599474,
       "sha1": "8643d709c2c7f878ef8db296ce6ab381c3130e03"
+    },
+    {
+      "path": "client/required/ntgl-1.21.1-3.2.0.jar",
+      "name": "ntgl-1.21.1-3.2.0.jar",
+      "group": "",
+      "size": 3965533,
+      "sha1": "c16c3f99eec93f1d30f1c04b86ca9f5ba75d1574"
     },
     {
       "path": "client/required/plasmovoice-neoforge-1.21.1-2.1.13.jar",
