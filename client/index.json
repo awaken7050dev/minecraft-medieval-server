@@ -1,7 +1,7 @@
 {
-  "generated": "2026-08-13T00:37:14.545Z",
+  "generated": "2026-08-13T00:38:43.449Z",
   "serverIp": "katherine-vanish.tun.ply.gg",
-  "count": 48,
+  "count": 47,
   "files": [
     {
       "path": "client/optional/want-shaders-by-default/iris-neoforge-1.8.14-beta.1+mc1.21.1.jar",
@@ -212,13 +212,6 @@
       "group": "",
       "size": 1274167,
       "sha1": "1156f9544f5da3269030d52e8a2cecb11f041b4b"
-    },
-    {
-      "path": "client/required/jei-1.21.1-neoforge-19.44.0.401.jar",
-      "name": "jei-1.21.1-neoforge-19.44.0.401.jar",
-      "group": "",
-      "size": 1697362,
-      "sha1": "29d2dbac6f817db717aea9fa864d397beb7d3070"
     },
     {
       "path": "client/required/kotlinforforge-5.12.0-all.jar",
