@@ -1,7 +1,7 @@
 {
-  "generated": "2026-08-12T12:13:01.688Z",
+  "generated": "2026-08-13T00:36:50.866Z",
   "serverIp": "katherine-vanish.tun.ply.gg",
-  "count": 49,
+  "count": 48,
   "files": [
     {
       "path": "client/optional/want-shaders-by-default/iris-neoforge-1.8.14-beta.1+mc1.21.1.jar",
@@ -30,13 +30,6 @@
       "group": "",
       "size": 21393,
       "sha1": "dcf45168cfac086e47d8dc0776aa18b9ff17abe6"
-    },
-    {
-      "path": "client/required/MedievalCraft(Weapons)-1.21.1-1.0.0.jar",
-      "name": "MedievalCraft(Weapons)-1.21.1-1.0.0.jar",
-      "group": "",
-      "size": 748015,
-      "sha1": "86920a313d38c2030a8acb0129ae2934d73e131c"
     },
     {
       "path": "client/required/[1.21.1-neoforge]-Siege-Machines-1.33.jar",
@@ -179,13 +172,6 @@
       "sha1": "3c7fda1b0d7b39e55f9675c029f8ba7f1003d38c"
     },
     {
-      "path": "client/required/emi-1.1.24+1.21.1+neoforge.jar",
-      "name": "emi-1.1.24+1.21.1+neoforge.jar",
-      "group": "",
-      "size": 1111538,
-      "sha1": "543f8c5e8a1b0b6490cd97b0e3924772b9c4eb2b"
-    },
-    {
       "path": "client/required/evenmoreinstruments-neoforge-1.21-1.21.1-6.1.4.jar",
       "name": "evenmoreinstruments-neoforge-1.21-1.21.1-6.1.4.jar",
       "group": "",
@@ -226,6 +212,13 @@
       "group": "",
       "size": 1274167,
       "sha1": "1156f9544f5da3269030d52e8a2cecb11f041b4b"
+    },
+    {
+      "path": "client/required/jei-1.21.1-neoforge-19.44.0.401.jar",
+      "name": "jei-1.21.1-neoforge-19.44.0.401.jar",
+      "group": "",
+      "size": 1697362,
+      "sha1": "29d2dbac6f817db717aea9fa864d397beb7d3070"
     },
     {
       "path": "client/required/kotlinforforge-5.12.0-all.jar",
