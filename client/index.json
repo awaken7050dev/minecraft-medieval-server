@@ -1,7 +1,7 @@
 {
-  "generated": "2026-08-16T01:08:17.593Z",
+  "generated": "2026-08-16T02:39:21.578Z",
   "serverIp": "play.steamforge.quest",
-  "count": 46,
+  "count": 49,
   "files": [
     {
       "path": "client/optional/want-shaders-by-default/iris-neoforge-1.8.14-beta.1+mc1.21.1.jar",
@@ -95,11 +95,25 @@
       "sha1": "9cb2e61347fc3a1a85ecbeabc45a10ec334ce308"
     },
     {
+      "path": "client/required/create-aeronautics-bundled-1.21.1-1.3.0.jar",
+      "name": "create-aeronautics-bundled-1.21.1-1.3.0.jar",
+      "group": "",
+      "size": 33120013,
+      "sha1": "acef0f5d384307f52a5e7e36492018c7d680ff53"
+    },
+    {
       "path": "client/required/create-gunsmithing-1.21.1-1.4.9.jar",
       "name": "create-gunsmithing-1.21.1-1.4.9.jar",
       "group": "",
       "size": 1819221,
       "sha1": "25c86d1ca2e83d15576cd426ca1d14a3fcbc594b"
+    },
+    {
+      "path": "client/required/create_aeronautics_transmission_linkage-0.2.5.jar",
+      "name": "create_aeronautics_transmission_linkage-0.2.5.jar",
+      "group": "",
+      "size": 666943,
+      "sha1": "471f07ac3657d91b9112b6c4aabe8cf95aabab2d"
     },
     {
       "path": "client/required/create_factory-0.7a-1.21.1.jar",
@@ -289,6 +303,13 @@
       "group": "",
       "size": 76369,
       "sha1": "3762238d2b1725c9d396a59e239099895eebc0ba"
+    },
+    {
+      "path": "client/required/sable-neoforge-1.21.1-2.0.3.jar",
+      "name": "sable-neoforge-1.21.1-2.0.3.jar",
+      "group": "",
+      "size": 12889000,
+      "sha1": "dbb38fe82a5f23d6b7d2d53d82e9c4e50807ae69"
     },
     {
       "path": "client/required/smallships-neoforge-1.21.1-2.0.0-b2.1.jar",
