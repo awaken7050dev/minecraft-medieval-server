@@ -1,7 +1,7 @@
 {
-  "generated": "2026-08-17T12:45:14.999Z",
+  "generated": "2026-08-18T00:35:22.562Z",
   "serverIp": "play.steamforge.quest",
-  "count": 49,
+  "count": 52,
   "files": [
     {
       "path": "client/optional/want-shaders-by-default/iris-neoforge-1.8.14-beta.1+mc1.21.1.jar",
@@ -30,6 +30,13 @@
       "group": "",
       "size": 21393,
       "sha1": "dcf45168cfac086e47d8dc0776aa18b9ff17abe6"
+    },
+    {
+      "path": "client/required/RPG_Style_More_Weapons_R_1.0.3_NeoForge_1.21.1.jar",
+      "name": "RPG_Style_More_Weapons_R_1.0.3_NeoForge_1.21.1.jar",
+      "group": "",
+      "size": 1473437,
+      "sha1": "994768aedd3f1566af3f945f36e3d5923c02d0b7"
     },
     {
       "path": "client/required/[1.21.1-neoforge]-Siege-Machines-1.33.jar",
@@ -149,6 +156,13 @@
       "group": "",
       "size": 3154746,
       "sha1": "16f7d70adf151c175ebf33a0ec4b3fb7a8cda214"
+    },
+    {
+      "path": "client/required/createfantasticweapons-1.1-1.21.1.jar",
+      "name": "createfantasticweapons-1.1-1.21.1.jar",
+      "group": "",
+      "size": 105470,
+      "sha1": "b8386b55a8d410895a08149a177324cdeaa32e5c"
     },
     {
       "path": "client/required/createfood-neoforge-1.21.1-2.7.0.jar",
@@ -282,6 +296,13 @@
       "group": "",
       "size": 12304232,
       "sha1": "2e9a7d994fb2a205c37e36eeb1781f5a7b70fd68"
+    },
+    {
+      "path": "client/required/player-animation-lib-forge-2.0.4+1.21.1.jar",
+      "name": "player-animation-lib-forge-2.0.4+1.21.1.jar",
+      "group": "",
+      "size": 203149,
+      "sha1": "e8394c4fa420cec6d63268ab12e13105882885ad"
     },
     {
       "path": "client/required/pv-addon-sculk-1.1.0.jar",
