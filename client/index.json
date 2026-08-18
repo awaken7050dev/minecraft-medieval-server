@@ -1,7 +1,7 @@
 {
-  "generated": "2026-08-18T00:36:16.194Z",
+  "generated": "2026-08-18T00:37:37.313Z",
   "serverIp": "play.steamforge.quest",
-  "count": 52,
+  "count": 51,
   "files": [
     {
       "path": "client/optional/want-shaders-by-default/iris-neoforge-1.8.14-beta.1+mc1.21.1.jar",
@@ -156,13 +156,6 @@
       "group": "",
       "size": 3154746,
       "sha1": "16f7d70adf151c175ebf33a0ec4b3fb7a8cda214"
-    },
-    {
-      "path": "client/required/createfantasticweapons-1.1-1.21.1.jar",
-      "name": "createfantasticweapons-1.1-1.21.1.jar",
-      "group": "",
-      "size": 105470,
-      "sha1": "b8386b55a8d410895a08149a177324cdeaa32e5c"
     },
     {
       "path": "client/required/createfood-neoforge-1.21.1-2.7.0.jar",
