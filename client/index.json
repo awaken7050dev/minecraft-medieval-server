@@ -1,7 +1,7 @@
 {
-  "generated": "2026-08-20T05:45:39.955Z",
+  "generated": "2026-08-20T06:44:25.708Z",
   "serverIp": "play.steamforge.quest",
-  "count": 52,
+  "count": 54,
   "files": [
     {
       "path": "client/optional/want-shaders-by-default/iris-neoforge-1.8.14-beta.1+mc1.21.1.jar",
@@ -333,6 +333,13 @@
       "sha1": "dbb38fe82a5f23d6b7d2d53d82e9c4e50807ae69"
     },
     {
+      "path": "client/required/simple_tuff_recipe-1.0.0-neoforge-1.21.1.jar",
+      "name": "simple_tuff_recipe-1.0.0-neoforge-1.21.1.jar",
+      "group": "",
+      "size": 6493,
+      "sha1": "f4ca7324bb1573f774ce03ce816507960eb9ecf5"
+    },
+    {
       "path": "client/required/smallships-neoforge-1.21.1-2.0.0-b2.1.jar",
       "name": "smallships-neoforge-1.21.1-2.0.0-b2.1.jar",
       "group": "",
@@ -352,6 +359,13 @@
       "group": "",
       "size": 202454,
       "sha1": "804e1a56cc40dd1a97a49e58f757dc1bd0c8bcb0"
+    },
+    {
+      "path": "client/required/steamforgeguard-client-1.0.0.jar",
+      "name": "steamforgeguard-client-1.0.0.jar",
+      "group": "",
+      "size": 19110,
+      "sha1": "e59e233c19de768bfea6a00acea4ecef6261ee3a"
     },
     {
       "path": "client/required/txnilib-neoforge-1.0.24-1.21.1.jar",
