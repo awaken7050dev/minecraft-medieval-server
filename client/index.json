@@ -1,7 +1,7 @@
 {
-  "generated": "2026-08-20T10:37:18.468Z",
+  "generated": "2026-08-20T10:42:04.108Z",
   "serverIp": "play.steamforge.quest",
-  "count": 58,
+  "count": 57,
   "files": [
     {
       "path": "client/optional/want-shaders-by-default/iris-neoforge-1.8.14-beta.1+mc1.21.1.jar",
@@ -212,13 +212,6 @@
       "group": "",
       "size": 8578288,
       "sha1": "3ce5fd9eb5a86d18bb8886f52b2235dd419b0671"
-    },
-    {
-      "path": "client/required/epicfight-extra-neoforge1.21.1-1.2.2.jar",
-      "name": "epicfight-extra-neoforge1.21.1-1.2.2.jar",
-      "group": "",
-      "size": 23079349,
-      "sha1": "55f474c0a3a2f0f0e9606454e9303a962b53c521"
     },
     {
       "path": "client/required/evenmoreinstruments-neoforge-1.21-1.21.1-6.1.4.jar",
