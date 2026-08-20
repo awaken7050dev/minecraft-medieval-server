@@ -1,7 +1,7 @@
 {
-  "generated": "2026-08-19T01:15:22.888Z",
+  "generated": "2026-08-20T05:33:48.343Z",
   "serverIp": "play.steamforge.quest",
-  "count": 51,
+  "count": 52,
   "files": [
     {
       "path": "client/optional/want-shaders-by-default/iris-neoforge-1.8.14-beta.1+mc1.21.1.jar",
@@ -184,6 +184,13 @@
       "group": "",
       "size": 1111538,
       "sha1": "543f8c5e8a1b0b6490cd97b0e3924772b9c4eb2b"
+    },
+    {
+      "path": "client/required/epic-fight-21.17.3.1-mc1.21.1-neoforge.jar",
+      "name": "epic-fight-21.17.3.1-mc1.21.1-neoforge.jar",
+      "group": "",
+      "size": 8578288,
+      "sha1": "3ce5fd9eb5a86d18bb8886f52b2235dd419b0671"
     },
     {
       "path": "client/required/evenmoreinstruments-neoforge-1.21-1.21.1-6.1.4.jar",
