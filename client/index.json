@@ -1,7 +1,7 @@
 {
-  "generated": "2026-08-20T08:13:06.462Z",
+  "generated": "2026-08-20T10:13:29.994Z",
   "serverIp": "play.steamforge.quest",
-  "count": 54,
+  "count": 56,
   "files": [
     {
       "path": "client/optional/want-shaders-by-default/iris-neoforge-1.8.14-beta.1+mc1.21.1.jar",
@@ -74,6 +74,13 @@
       "sha1": "e5da41d24033ff166f91a879cd2255303426cb9d"
     },
     {
+      "path": "client/required/buildersaddition2-neoforge-1.21.1-2.1.2.jar",
+      "name": "buildersaddition2-neoforge-1.21.1-2.1.2.jar",
+      "group": "",
+      "size": 1302593,
+      "sha1": "043a124d31f03e548c3cac8da96d051f656ebac8"
+    },
+    {
       "path": "client/required/chat_heads-0.15.3-neoforge-1.21.jar",
       "name": "chat_heads-0.15.3-neoforge-1.21.jar",
       "group": "",
@@ -128,6 +135,13 @@
       "group": "",
       "size": 211171,
       "sha1": "f7f2a370b2e0eaf39e91c93b269aef3141408f51"
+    },
+    {
+      "path": "client/required/createaddition-1.7.0.jar",
+      "name": "createaddition-1.7.0.jar",
+      "group": "",
+      "size": 1705668,
+      "sha1": "568c39f23a9b810f1b968b0dfe7cde99634c17df"
     },
     {
       "path": "client/required/createaddoncompatibility-neoforge-1.21.1-1.0.0.jar",
