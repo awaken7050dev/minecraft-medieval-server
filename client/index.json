@@ -1,7 +1,7 @@
 {
-  "generated": "2026-08-20T10:14:10.715Z",
+  "generated": "2026-08-20T10:36:40.056Z",
   "serverIp": "play.steamforge.quest",
-  "count": 56,
+  "count": 58,
   "files": [
     {
       "path": "client/optional/want-shaders-by-default/iris-neoforge-1.8.14-beta.1+mc1.21.1.jar",
@@ -9,6 +9,13 @@
       "group": "want-shaders-by-default",
       "size": 2540723,
       "sha1": "55e2194ee433ce8814e4a3dd199ad1dfe5f23cb6"
+    },
+    {
+      "path": "client/required/FarmersDelight-1.21.1-1.3.3.jar",
+      "name": "FarmersDelight-1.21.1-1.3.3.jar",
+      "group": "",
+      "size": 3160883,
+      "sha1": "1b49344333e897c43dd2f768ee30e50ac26cd110"
     },
     {
       "path": "client/required/GnKinetics-1.21.1-1.0m.jar",
@@ -137,11 +144,11 @@
       "sha1": "f7f2a370b2e0eaf39e91c93b269aef3141408f51"
     },
     {
-      "path": "client/required/createaddition-1.7.0.jar",
-      "name": "createaddition-1.7.0.jar",
+      "path": "client/required/createaddition-1.6.0.jar",
+      "name": "createaddition-1.6.0.jar",
       "group": "",
-      "size": 1705668,
-      "sha1": "568c39f23a9b810f1b968b0dfe7cde99634c17df"
+      "size": 1661802,
+      "sha1": "d4caadcc2664ff18e6624f021004ad9742d82c51"
     },
     {
       "path": "client/required/createaddoncompatibility-neoforge-1.21.1-1.0.0.jar",
@@ -205,6 +212,13 @@
       "group": "",
       "size": 8578288,
       "sha1": "3ce5fd9eb5a86d18bb8886f52b2235dd419b0671"
+    },
+    {
+      "path": "client/required/epicfight-extra-neoforge1.21.1-1.2.2.jar",
+      "name": "epicfight-extra-neoforge1.21.1-1.2.2.jar",
+      "group": "",
+      "size": 23079349,
+      "sha1": "55f474c0a3a2f0f0e9606454e9303a962b53c521"
     },
     {
       "path": "client/required/evenmoreinstruments-neoforge-1.21-1.21.1-6.1.4.jar",
