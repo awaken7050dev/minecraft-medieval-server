@@ -1,7 +1,7 @@
 {
-  "generated": "2026-08-22T16:19:37.233Z",
+  "generated": "2026-08-22T19:59:00.735Z",
   "serverIp": "play.steamforge.quest",
-  "count": 57,
+  "count": 58,
   "files": [
     {
       "path": "client/optional/want-shaders-by-default/iris-neoforge-1.8.14-beta.1+mc1.21.1.jar",
@@ -359,6 +359,13 @@
       "group": "",
       "size": 6493,
       "sha1": "f4ca7324bb1573f774ce03ce816507960eb9ecf5"
+    },
+    {
+      "path": "client/required/skinlayers3d-neoforge-1.11.2-mc1.21.1.jar",
+      "name": "skinlayers3d-neoforge-1.11.2-mc1.21.1.jar",
+      "group": "",
+      "size": 1979027,
+      "sha1": "2fcb0234d64627d2647579bbc9d904f674b30167"
     },
     {
       "path": "client/required/smallships-neoforge-1.21.1-2.0.0-b2.1.jar",
