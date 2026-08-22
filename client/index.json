@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-22T00:37:10.342Z",
+  "generated": "2026-08-22T00:44:55.168Z",
   "serverIp": "play.steamforge.quest",
   "count": 57,
   "files": [
@@ -347,11 +347,11 @@
       "sha1": "3762238d2b1725c9d396a59e239099895eebc0ba"
     },
     {
-      "path": "client/required/sable-neoforge-1.21.1-2.0.3.jar",
-      "name": "sable-neoforge-1.21.1-2.0.3.jar",
+      "path": "client/required/sable-neoforge-1.21.1-2.0.5.jar",
+      "name": "sable-neoforge-1.21.1-2.0.5.jar",
       "group": "",
-      "size": 12889000,
-      "sha1": "dbb38fe82a5f23d6b7d2d53d82e9c4e50807ae69"
+      "size": 12986136,
+      "sha1": "ac31923e55e2997b0fa7f2b801b9c0dbb808351b"
     },
     {
       "path": "client/required/simple_tuff_recipe-1.0.0-neoforge-1.21.1.jar",
