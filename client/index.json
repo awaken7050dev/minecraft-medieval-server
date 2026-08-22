@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-22T04:00:58.951Z",
+  "generated": "2026-08-22T13:54:33.269Z",
   "serverIp": "play.steamforge.quest",
   "count": 57,
   "files": [
@@ -382,11 +382,11 @@
       "sha1": "804e1a56cc40dd1a97a49e58f757dc1bd0c8bcb0"
     },
     {
-      "path": "client/required/steamforgeguard-client-1.2.0.jar",
-      "name": "steamforgeguard-client-1.2.0.jar",
+      "path": "client/required/steamforgeguard-client-1.3.0.jar",
+      "name": "steamforgeguard-client-1.3.0.jar",
       "group": "",
-      "size": 26600,
-      "sha1": "c115384b35f0d2bad14727b24ff21e2a357aa6c9"
+      "size": 29287,
+      "sha1": "454248bce9748653b3935efb842c06724537be74"
     },
     {
       "path": "client/required/txnilib-neoforge-1.0.24-1.21.1.jar",
