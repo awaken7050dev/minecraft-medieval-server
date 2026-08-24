@@ -1,7 +1,7 @@
 {
-  "generated": "2026-08-23T16:33:10.291Z",
+  "generated": "2026-08-24T19:53:55.865Z",
   "serverIp": "play.steamforge.quest",
-  "count": 58,
+  "count": 62,
   "files": [
     {
       "path": "client/optional/want-shaders-by-default/iris-neoforge-1.8.14-beta.1+mc1.21.1.jar",
@@ -109,6 +109,13 @@
       "sha1": "8775b309a632695a6836a01517fa3ec690c5bab8"
     },
     {
+      "path": "client/required/copycats-3.0.8+mc.1.21.1-neoforge.jar",
+      "name": "copycats-3.0.8+mc.1.21.1-neoforge.jar",
+      "group": "",
+      "size": 1799269,
+      "sha1": "80cc6476415931c165dae6f310155ea39f6e8112"
+    },
+    {
       "path": "client/required/create-1.21.1-6.0.10.jar",
       "name": "create-1.21.1-6.0.10.jar",
       "group": "",
@@ -137,11 +144,25 @@
       "sha1": "471f07ac3657d91b9112b6c4aabe8cf95aabab2d"
     },
     {
+      "path": "client/required/create_curios_backtank-neoforge-1.21.1-1.0.1.jar",
+      "name": "create_curios_backtank-neoforge-1.21.1-1.0.1.jar",
+      "group": "",
+      "size": 51434,
+      "sha1": "100e53f006b3b5518e59bdf4f9a2704991fdf2aa"
+    },
+    {
       "path": "client/required/create_factory-0.7a-1.21.1.jar",
       "name": "create_factory-0.7a-1.21.1.jar",
       "group": "",
       "size": 211171,
       "sha1": "f7f2a370b2e0eaf39e91c93b269aef3141408f51"
+    },
+    {
+      "path": "client/required/create_radar-0.4.9.4-1.21.1.jar",
+      "name": "create_radar-0.4.9.4-1.21.1.jar",
+      "group": "",
+      "size": 2990812,
+      "sha1": "da127e00213fd42b4931579f1e03909932ae3822"
     },
     {
       "path": "client/required/createaddition-1.6.0.jar",
@@ -247,6 +268,13 @@
       "group": "",
       "size": 7056535,
       "sha1": "42e7727f871ffbab67a1a5f180b4fd0942c9806e"
+    },
+    {
+      "path": "client/required/hotstuff-1.1.6.jar",
+      "name": "hotstuff-1.1.6.jar",
+      "group": "",
+      "size": 227369,
+      "sha1": "f067bb3a2c16fd1a0aedd4338e9e1a0baedd4ee4"
     },
     {
       "path": "client/required/immersive_armors-1.7.6+1.21.1-neoforge.jar",
