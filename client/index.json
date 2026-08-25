@@ -1,7 +1,7 @@
 {
-  "generated": "2026-08-25T13:50:56.500Z",
+  "generated": "2026-08-25T15:40:17.013Z",
   "serverIp": "play.steamforge.quest",
-  "count": 62,
+  "count": 68,
   "files": [
     {
       "path": "client/optional/want-shaders-by-default/iris-neoforge-1.8.14-beta.1+mc1.21.1.jar",
@@ -319,11 +319,53 @@
       "sha1": "1d23da998c205da85d1765fa2a889dc60f8e2073"
     },
     {
+      "path": "client/required/mcw-bridges-3.1.2-mc1.21.1neoforge.jar",
+      "name": "mcw-bridges-3.1.2-mc1.21.1neoforge.jar",
+      "group": "",
+      "size": 661387,
+      "sha1": "cc65e19c802215320f38f2d933ff48e07b4ad9cb"
+    },
+    {
+      "path": "client/required/mcw-doors-1.1.5-mc1.21.1neoforge.jar",
+      "name": "mcw-doors-1.1.5-mc1.21.1neoforge.jar",
+      "group": "",
+      "size": 1190404,
+      "sha1": "048eb3a7ec9f796a40320c18a28fbe25b83a89bd"
+    },
+    {
       "path": "client/required/mcw-furniture-3.4.1-mc1.21.1neoforge.jar",
       "name": "mcw-furniture-3.4.1-mc1.21.1neoforge.jar",
       "group": "",
       "size": 2080436,
       "sha1": "58b4db066b9f6fb2a8e2b4e77f710d85d2172783"
+    },
+    {
+      "path": "client/required/mcw-lights-1.1.5-mc1.21.1neoforge.jar",
+      "name": "mcw-lights-1.1.5-mc1.21.1neoforge.jar",
+      "group": "",
+      "size": 525744,
+      "sha1": "1ee82c14fc4f7d7000423ba211d173edc26bfce7"
+    },
+    {
+      "path": "client/required/mcw-mcwpaths-1.1.1-mc1.21.1neoforge.jar",
+      "name": "mcw-mcwpaths-1.1.1-mc1.21.1neoforge.jar",
+      "group": "",
+      "size": 777742,
+      "sha1": "0668e414fab904da938959eafb24b3daf370299d"
+    },
+    {
+      "path": "client/required/mcw-mcwstairs-1.0.2-mc1.21.1neoforge.jar",
+      "name": "mcw-mcwstairs-1.0.2-mc1.21.1neoforge.jar",
+      "group": "",
+      "size": 529082,
+      "sha1": "2b1659e5bf268433986a63a7b1375d4d5d463bbe"
+    },
+    {
+      "path": "client/required/mcw-mcwwindows-2.4.2-mc1.21.1neoforge.jar",
+      "name": "mcw-mcwwindows-2.4.2-mc1.21.1neoforge.jar",
+      "group": "",
+      "size": 1261268,
+      "sha1": "04e28428b0ee5aa80e393909f61ba4baddae2906"
     },
     {
       "path": "client/required/modernfix-neoforge-5.27.20+mc1.21.1.jar",
