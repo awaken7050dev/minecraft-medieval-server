@@ -1,7 +1,7 @@
 {
-  "generated": "2026-08-27T02:07:12.969Z",
+  "generated": "2026-08-27T02:11:26.376Z",
   "serverIp": "play.steamforge.quest",
-  "count": 73,
+  "count": 74,
   "files": [
     {
       "path": "client/optional/want-shaders-by-default/iris-neoforge-1.8.14-beta.1+mc1.21.1.jar",
@@ -268,6 +268,13 @@
       "group": "",
       "size": 121559,
       "sha1": "a2d53841440dc5d7b86a683087fb06aad5b5482a"
+    },
+    {
+      "path": "client/required/fragmentum-neoforge-1.21.1-2.4.4.jar",
+      "name": "fragmentum-neoforge-1.21.1-2.4.4.jar",
+      "group": "",
+      "size": 1939369,
+      "sha1": "0809046f9714f5bcc635886cf754ef10951f1b50"
     },
     {
       "path": "client/required/geckolib-neoforge-1.21.1-4.9.2.jar",
