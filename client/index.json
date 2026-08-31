@@ -1,7 +1,7 @@
 {
-  "generated": "2026-08-31T17:23:28.362Z",
+  "generated": "2026-08-31T21:31:30.661Z",
   "serverIp": "play.steamforge.quest",
-  "count": 77,
+  "count": 79,
   "files": [
     {
       "path": "client/optional/want-shaders-by-default/iris-neoforge-1.8.14-beta.1+mc1.21.1.jar",
@@ -256,6 +256,13 @@
       "sha1": "3ce5fd9eb5a86d18bb8886f52b2235dd419b0671"
     },
     {
+      "path": "client/required/epicfight-extra-neoforge1.21.1-1.2.2-steamforge2.jar",
+      "name": "epicfight-extra-neoforge1.21.1-1.2.2-steamforge2.jar",
+      "group": "",
+      "size": 23100867,
+      "sha1": "d1ef02def8a63fcfba87aa889b2512987d96f980"
+    },
+    {
       "path": "client/required/evenmoreinstruments-neoforge-1.21-1.21.1-6.1.4.jar",
       "name": "evenmoreinstruments-neoforge-1.21-1.21.1-6.1.4.jar",
       "group": "",
@@ -478,6 +485,13 @@
       "group": "",
       "size": 12986136,
       "sha1": "ac31923e55e2997b0fa7f2b801b9c0dbb808351b"
+    },
+    {
+      "path": "client/required/sabledestructive-2.2.0-steamforge2.jar",
+      "name": "sabledestructive-2.2.0-steamforge2.jar",
+      "group": "",
+      "size": 587711,
+      "sha1": "1d1fb78b2127eafbd7069e855acf7f374b57c767"
     },
     {
       "path": "client/required/simple_tuff_recipe-1.0.0-neoforge-1.21.1.jar",
