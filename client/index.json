@@ -1,7 +1,7 @@
 {
-  "generated": "2026-08-31T15:28:32.247Z",
+  "generated": "2026-08-31T17:23:28.362Z",
   "serverIp": "play.steamforge.quest",
-  "count": 78,
+  "count": 77,
   "files": [
     {
       "path": "client/optional/want-shaders-by-default/iris-neoforge-1.8.14-beta.1+mc1.21.1.jar",
@@ -51,6 +51,13 @@
       "group": "",
       "size": 1473437,
       "sha1": "994768aedd3f1566af3f945f36e3d5923c02d0b7"
+    },
+    {
+      "path": "client/required/WeaponsOfMiracles-2.0.176.jar",
+      "name": "WeaponsOfMiracles-2.0.176.jar",
+      "group": "",
+      "size": 20934139,
+      "sha1": "310fbfcccba11c4f22e960f29620b4766901eef8"
     },
     {
       "path": "client/required/[1.21.1-neoforge]-Siege-Machines-1.33.jar",
@@ -298,13 +305,6 @@
       "sha1": "dfc2874e719acf7e42f368eabf0a58e5f0f8c0e3"
     },
     {
-      "path": "client/required/hidearmor-1.4.2.jar",
-      "name": "hidearmor-1.4.2.jar",
-      "group": "",
-      "size": 116158,
-      "sha1": "5aa9f751974c8dbc2b3b838a960c5856f93e754c"
-    },
-    {
       "path": "client/required/hotstuff-1.1.6.jar",
       "name": "hotstuff-1.1.6.jar",
       "group": "",
@@ -534,13 +534,6 @@
       "group": "",
       "size": 6276522,
       "sha1": "06d8e1d1f7f9cd8f18bebcbc7eabe8208cfeee7b"
-    },
-    {
-      "path": "client/required/wide-mining-2.3.1.jar",
-      "name": "wide-mining-2.3.1.jar",
-      "group": "",
-      "size": 433994,
-      "sha1": "bb0def22a7c1ebe9b2dc840d0ed948f67d6bfe27"
     },
     {
       "path": "client/required/xaeroworldmap-neoforge-1.21.1-1.44.2.jar",
