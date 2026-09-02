@@ -1,7 +1,7 @@
 {
-  "generated": "2026-09-02T01:14:04.999Z",
+  "generated": "2026-09-02T07:25:50.581Z",
   "serverIp": "play.steamforge.quest",
-  "count": 82,
+  "count": 81,
   "files": [
     {
       "path": "client/optional/want-shaders-by-default/iris-neoforge-1.8.14-beta.1+mc1.21.1.jar",
@@ -128,13 +128,6 @@
       "group": "",
       "size": 1163890,
       "sha1": "8775b309a632695a6836a01517fa3ec690c5bab8"
-    },
-    {
-      "path": "client/required/copperagebackport-neoforge-1.21.1-0.1.4.jar",
-      "name": "copperagebackport-neoforge-1.21.1-0.1.4.jar",
-      "group": "",
-      "size": 2494183,
-      "sha1": "9a9e6869b1733b0ce8090985c5aa201d022f0afc"
     },
     {
       "path": "client/required/copycats-3.0.8+mc.1.21.1-neoforge.jar",
