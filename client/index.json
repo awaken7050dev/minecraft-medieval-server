@@ -1,7 +1,7 @@
 {
-  "generated": "2026-09-02T00:43:13.616Z",
+  "generated": "2026-09-02T01:14:04.999Z",
   "serverIp": "play.steamforge.quest",
-  "count": 79,
+  "count": 82,
   "files": [
     {
       "path": "client/optional/want-shaders-by-default/iris-neoforge-1.8.14-beta.1+mc1.21.1.jar",
@@ -130,6 +130,13 @@
       "sha1": "8775b309a632695a6836a01517fa3ec690c5bab8"
     },
     {
+      "path": "client/required/copperagebackport-neoforge-1.21.1-0.1.4.jar",
+      "name": "copperagebackport-neoforge-1.21.1-0.1.4.jar",
+      "group": "",
+      "size": 2494183,
+      "sha1": "9a9e6869b1733b0ce8090985c5aa201d022f0afc"
+    },
+    {
       "path": "client/required/copycats-3.0.8+mc.1.21.1-neoforge.jar",
       "name": "copycats-3.0.8+mc.1.21.1-neoforge.jar",
       "group": "",
@@ -205,6 +212,13 @@
       "group": "",
       "size": 3771506,
       "sha1": "e74bdf1f641682ea74d0a1d69a13b2d63493f981"
+    },
+    {
+      "path": "client/required/createcobblestone-1.5.0+neoforge-1.21.1-153.jar",
+      "name": "createcobblestone-1.5.0+neoforge-1.21.1-153.jar",
+      "group": "",
+      "size": 573391,
+      "sha1": "2149b582846f0738094c41a9e162586cc2186d72"
     },
     {
       "path": "client/required/createdeco-2.1.3.jar",
@@ -310,6 +324,13 @@
       "group": "",
       "size": 3227882,
       "sha1": "dfc2874e719acf7e42f368eabf0a58e5f0f8c0e3"
+    },
+    {
+      "path": "client/required/hit-the-dummy-2.2.1.jar",
+      "name": "hit-the-dummy-2.2.1.jar",
+      "group": "",
+      "size": 975660,
+      "sha1": "ffb168b094c6e43b6e8f9328f849b3c6456fa755"
     },
     {
       "path": "client/required/hotstuff-1.1.6.jar",
