@@ -1,7 +1,7 @@
 {
-  "generated": "2026-09-02T07:25:50.581Z",
+  "generated": "2026-09-02T19:13:13.569Z",
   "serverIp": "play.steamforge.quest",
-  "count": 81,
+  "count": 95,
   "files": [
     {
       "path": "client/optional/want-shaders-by-default/iris-neoforge-1.8.14-beta.1+mc1.21.1.jar",
@@ -16,6 +16,20 @@
       "group": "",
       "size": 888600,
       "sha1": "52f9e69182d1941ac7c6c47c4143e711ba187c36"
+    },
+    {
+      "path": "client/required/AeroEngine-1.3.0.jar",
+      "name": "AeroEngine-1.3.0.jar",
+      "group": "",
+      "size": 1589690,
+      "sha1": "688303ab27e68f50490d1b4791327319fc25791d"
+    },
+    {
+      "path": "client/required/Create Aeronautics Gyroscope Stabilizers.jar",
+      "name": "Create Aeronautics Gyroscope Stabilizers.jar",
+      "group": "",
+      "size": 300793,
+      "sha1": "d41825a05e9fdc18c54f34e776dda14f1b647b41"
     },
     {
       "path": "client/required/FarmersDelight-1.21.1-1.3.3.jar",
@@ -53,6 +67,13 @@
       "sha1": "994768aedd3f1566af3f945f36e3d5923c02d0b7"
     },
     {
+      "path": "client/required/VS-Sable-HoseConnectors-0.1.8-1.21.1.jar",
+      "name": "VS-Sable-HoseConnectors-0.1.8-1.21.1.jar",
+      "group": "",
+      "size": 755333,
+      "sha1": "2bcf6771283579be140f32219685388691fbd98f"
+    },
+    {
       "path": "client/required/WeaponsOfMiracles-2.0.176.jar",
       "name": "WeaponsOfMiracles-2.0.176.jar",
       "group": "",
@@ -65,6 +86,13 @@
       "group": "",
       "size": 1864081,
       "sha1": "077972524d6841c89ae0aaa7aa6f0e2f321d0514"
+    },
+    {
+      "path": "client/required/aero_cam_sync-1.3.1.jar",
+      "name": "aero_cam_sync-1.3.1.jar",
+      "group": "",
+      "size": 646879,
+      "sha1": "635cc5eedbc4d70706260fe35164b16d23cfeedc"
     },
     {
       "path": "client/required/alexsmobs-1.22.17.jar",
@@ -93,6 +121,20 @@
       "group": "",
       "size": 584734,
       "sha1": "8a0563d0edcde8a81c712408603ecebc412099fb"
+    },
+    {
+      "path": "client/required/azimuth-1.4.8.jar",
+      "name": "azimuth-1.4.8.jar",
+      "group": "",
+      "size": 142919,
+      "sha1": "db610dd4b28c6fef45b4f1ee54c9835fc46498f5"
+    },
+    {
+      "path": "client/required/bits_n_bobs-2.2.9.jar",
+      "name": "bits_n_bobs-2.2.9.jar",
+      "group": "",
+      "size": 2500497,
+      "sha1": "8f93e54accadd5e0e05badf0125cd4f98da5df51"
     },
     {
       "path": "client/required/block_factorys_bosses-2.1.2-neo-1.21.1.jar",
@@ -158,6 +200,13 @@
       "sha1": "25c86d1ca2e83d15576cd426ca1d14a3fcbc594b"
     },
     {
+      "path": "client/required/create_aeronautics_throwable_rope_connector-0.4.3.jar",
+      "name": "create_aeronautics_throwable_rope_connector-0.4.3.jar",
+      "group": "",
+      "size": 187714,
+      "sha1": "b513d8069a1ec229d0c2f45a75890b1be829b742"
+    },
+    {
       "path": "client/required/create_aeronautics_transmission_linkage-0.2.5.jar",
       "name": "create_aeronautics_transmission_linkage-0.2.5.jar",
       "group": "",
@@ -184,6 +233,13 @@
       "group": "",
       "size": 2990812,
       "sha1": "da127e00213fd42b4931579f1e03909932ae3822"
+    },
+    {
+      "path": "client/required/create_submarine-2.2.4.jar",
+      "name": "create_submarine-2.2.4.jar",
+      "group": "",
+      "size": 1869296,
+      "sha1": "abab144ab1728db08f778bb71169ffb9f1fc2aac"
     },
     {
       "path": "client/required/createaddition-1.6.0.jar",
@@ -298,6 +354,13 @@
       "sha1": "a982ba3f4d6e6e30adacb8bae5659d2fc5dbe468"
     },
     {
+      "path": "client/required/frontier-fx-0.6.0.jar",
+      "name": "frontier-fx-0.6.0.jar",
+      "group": "",
+      "size": 22167,
+      "sha1": "97aaeb99b5361bbcac75e1f7870e3d50968085ec"
+    },
+    {
       "path": "client/required/geckolib-neoforge-1.21.1-4.9.2.jar",
       "name": "geckolib-neoforge-1.21.1-4.9.2.jar",
       "group": "",
@@ -312,18 +375,18 @@
       "sha1": "42e7727f871ffbab67a1a5f180b4fd0942c9806e"
     },
     {
+      "path": "client/required/gluelock-0.8.5.jar",
+      "name": "gluelock-0.8.5.jar",
+      "group": "",
+      "size": 12620,
+      "sha1": "32ff06c3e5b16738d577497fe54da1e90b182942"
+    },
+    {
       "path": "client/required/happy_ghast_legacy-1.8-1.21.1-neoforge.jar",
       "name": "happy_ghast_legacy-1.8-1.21.1-neoforge.jar",
       "group": "",
       "size": 3227882,
       "sha1": "dfc2874e719acf7e42f368eabf0a58e5f0f8c0e3"
-    },
-    {
-      "path": "client/required/hit-the-dummy-2.2.1.jar",
-      "name": "hit-the-dummy-2.2.1.jar",
-      "group": "",
-      "size": 975660,
-      "sha1": "ffb168b094c6e43b6e8f9328f849b3c6456fa755"
     },
     {
       "path": "client/required/hotstuff-1.1.6.jar",
@@ -473,6 +536,13 @@
       "sha1": "e8394c4fa420cec6d63268ab12e13105882885ad"
     },
     {
+      "path": "client/required/powergrid-mc1.21.1-0.6.1.jar",
+      "name": "powergrid-mc1.21.1-0.6.1.jar",
+      "group": "",
+      "size": 7965088,
+      "sha1": "81b231b2d387e52064702f1684e3f718e2bbed0d"
+    },
+    {
       "path": "client/required/pv-addon-sculk-1.1.0.jar",
       "name": "pv-addon-sculk-1.1.0.jar",
       "group": "",
@@ -508,11 +578,32 @@
       "sha1": "1d1fb78b2127eafbd7069e855acf7f374b57c767"
     },
     {
+      "path": "client/required/sablewaves-2.21.0.jar",
+      "name": "sablewaves-2.21.0.jar",
+      "group": "",
+      "size": 150666,
+      "sha1": "3c49e53adf4e602b2308e05a2ed2aba075aa619e"
+    },
+    {
+      "path": "client/required/shelvesbackport-1.0.0.jar",
+      "name": "shelvesbackport-1.0.0.jar",
+      "group": "",
+      "size": 202720,
+      "sha1": "742c6da30c31b96ddbeb0ca3d6f855b08a02903b"
+    },
+    {
       "path": "client/required/simple_tuff_recipe-1.0.0-neoforge-1.21.1.jar",
       "name": "simple_tuff_recipe-1.0.0-neoforge-1.21.1.jar",
       "group": "",
       "size": 6493,
       "sha1": "f4ca7324bb1573f774ce03ce816507960eb9ecf5"
+    },
+    {
+      "path": "client/required/simulatedcoasters-0.1.5.jar",
+      "name": "simulatedcoasters-0.1.5.jar",
+      "group": "",
+      "size": 1892119,
+      "sha1": "988ae7a6a56adbe93c0e4a9332bc019c555c4c24"
     },
     {
       "path": "client/required/skinlayers3d-neoforge-1.11.2-mc1.21.1.jar",
@@ -555,6 +646,13 @@
       "group": "",
       "size": 29287,
       "sha1": "454248bce9748653b3935efb842c06724537be74"
+    },
+    {
+      "path": "client/required/struts-1.3.0.jar",
+      "name": "struts-1.3.0.jar",
+      "group": "",
+      "size": 215558,
+      "sha1": "7fbc13486920a3e7ebc741d08faebca562fb9d0d"
     },
     {
       "path": "client/required/txnilib-neoforge-1.0.24-1.21.1.jar",
