@@ -1,7 +1,7 @@
 {
-  "generated": "2026-09-04T17:14:38.174Z",
+  "generated": "2026-09-04T17:15:25.650Z",
   "serverIp": "play.steamforge.quest",
-  "count": 97,
+  "count": 96,
   "files": [
     {
       "path": "client/optional/want-shaders-by-default/iris-neoforge-1.8.14-beta.1+mc1.21.1.jar",
@@ -527,13 +527,6 @@
       "group": "",
       "size": 3965533,
       "sha1": "c16c3f99eec93f1d30f1c04b86ca9f5ba75d1574"
-    },
-    {
-      "path": "client/required/particle_core-0.3.3+1.21+neoforge.jar",
-      "name": "particle_core-0.3.3+1.21+neoforge.jar",
-      "group": "",
-      "size": 138375,
-      "sha1": "403bb7039066911654ab22179fcb919da3722e2e"
     },
     {
       "path": "client/required/plasmovoice-neoforge-1.21.1-2.1.13.jar",
