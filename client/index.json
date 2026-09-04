@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-03T23:11:36.677Z",
+  "generated": "2026-09-04T01:47:50.635Z",
   "serverIp": "play.steamforge.quest",
   "count": 95,
   "files": [
@@ -627,11 +627,11 @@
       "sha1": "804e1a56cc40dd1a97a49e58f757dc1bd0c8bcb0"
     },
     {
-      "path": "client/required/steamforge-util-1.0.0.jar",
-      "name": "steamforge-util-1.0.0.jar",
+      "path": "client/required/steamforge-util-1.1.0.jar",
+      "name": "steamforge-util-1.1.0.jar",
       "group": "",
-      "size": 246909,
-      "sha1": "c3b434967446b5618e55fcb3c791dc9dc2307e70"
+      "size": 249682,
+      "sha1": "a05fcc9a739b04b8f5caf83efe2eeabd7b6282c6"
     },
     {
       "path": "client/required/steamforgebrand-1.1.1.jar",
