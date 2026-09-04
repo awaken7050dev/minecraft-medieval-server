@@ -1,7 +1,7 @@
 {
-  "generated": "2026-09-04T18:43:05.571Z",
+  "generated": "2026-09-04T23:01:41.902Z",
   "serverIp": "play.steamforge.quest",
-  "count": 98,
+  "count": 99,
   "files": [
     {
       "path": "client/optional/want-shaders-by-default/iris-neoforge-1.8.14-beta.1+mc1.21.1.jar",
@@ -44,6 +44,13 @@
       "group": "",
       "size": 560814,
       "sha1": "4e32a4595af20f375e1b41301d7ca6e6e1ce76d2"
+    },
+    {
+      "path": "client/required/ImmediatelyFast-NeoForge-1.6.13+1.21.1.jar",
+      "name": "ImmediatelyFast-NeoForge-1.6.13+1.21.1.jar",
+      "group": "",
+      "size": 362740,
+      "sha1": "d623d1386ab010c8ca24996c1e8a8fc739b5660c"
     },
     {
       "path": "client/required/L_Ender's Cataclysm 1.21.1-3.32.jar",
