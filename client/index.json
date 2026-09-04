@@ -1,7 +1,7 @@
 {
-  "generated": "2026-09-04T01:47:50.635Z",
+  "generated": "2026-09-04T17:13:57.740Z",
   "serverIp": "play.steamforge.quest",
-  "count": 95,
+  "count": 97,
   "files": [
     {
       "path": "client/optional/want-shaders-by-default/iris-neoforge-1.8.14-beta.1+mc1.21.1.jar",
@@ -501,6 +501,13 @@
       "sha1": "8643d709c2c7f878ef8db296ce6ab381c3130e03"
     },
     {
+      "path": "client/required/moreculling-neoforge-1.21.1-1.0.9.jar",
+      "name": "moreculling-neoforge-1.21.1-1.0.9.jar",
+      "group": "",
+      "size": 335661,
+      "sha1": "810f0e8002540637501786a792706d8dcd4294ca"
+    },
+    {
       "path": "client/required/neoforge-runiclib-1.21.1-5.0.7.jar",
       "name": "neoforge-runiclib-1.21.1-5.0.7.jar",
       "group": "",
@@ -520,6 +527,13 @@
       "group": "",
       "size": 3965533,
       "sha1": "c16c3f99eec93f1d30f1c04b86ca9f5ba75d1574"
+    },
+    {
+      "path": "client/required/particle_core-0.3.3+1.21+neoforge.jar",
+      "name": "particle_core-0.3.3+1.21+neoforge.jar",
+      "group": "",
+      "size": 138375,
+      "sha1": "403bb7039066911654ab22179fcb919da3722e2e"
     },
     {
       "path": "client/required/plasmovoice-neoforge-1.21.1-2.1.13.jar",
