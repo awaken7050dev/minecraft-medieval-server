@@ -1,7 +1,7 @@
 {
-  "generated": "2026-09-04T23:01:41.902Z",
+  "generated": "2026-09-06T05:44:57.183Z",
   "serverIp": "play.steamforge.quest",
-  "count": 99,
+  "count": 105,
   "files": [
     {
       "path": "client/optional/want-shaders-by-default/iris-neoforge-1.8.14-beta.1+mc1.21.1.jar",
@@ -30,6 +30,13 @@
       "group": "",
       "size": 300793,
       "sha1": "d41825a05e9fdc18c54f34e776dda14f1b647b41"
+    },
+    {
+      "path": "client/required/Design-n-Decor-1.21.1-2.2b.jar",
+      "name": "Design-n-Decor-1.21.1-2.2b.jar",
+      "group": "",
+      "size": 6329899,
+      "sha1": "98e24eaab8857c1c129888c831bd7d0348dc2a2b"
     },
     {
       "path": "client/required/FarmersDelight-1.21.1-1.3.3.jar",
@@ -93,6 +100,13 @@
       "group": "",
       "size": 1864081,
       "sha1": "077972524d6841c89ae0aaa7aa6f0e2f321d0514"
+    },
+    {
+      "path": "client/required/abyssal_decor_1.21.1_0.11.0_Neoforge.jar",
+      "name": "abyssal_decor_1.21.1_0.11.0_Neoforge.jar",
+      "group": "",
+      "size": 10533318,
+      "sha1": "66867395b476062f1fd51220fddb62734e843471"
     },
     {
       "path": "client/required/aero_cam_sync-1.3.1.jar",
@@ -261,6 +275,13 @@
       "group": "",
       "size": 158395,
       "sha1": "743143994f85455a5c9edd729923d3dd202ba3fb"
+    },
+    {
+      "path": "client/required/createbb-4.0.1.jar",
+      "name": "createbb-4.0.1.jar",
+      "group": "",
+      "size": 540609,
+      "sha1": "a2aadea441ef64a8a78b69b7fd878303c5214a08"
     },
     {
       "path": "client/required/createbigcannons-5.11.7+mc.1.21.1.jar",
@@ -543,6 +564,13 @@
       "sha1": "c16c3f99eec93f1d30f1c04b86ca9f5ba75d1574"
     },
     {
+      "path": "client/required/palegardenupdate-1.1.7-neoforge-1.21.1.jar",
+      "name": "palegardenupdate-1.1.7-neoforge-1.21.1.jar",
+      "group": "",
+      "size": 942171,
+      "sha1": "0e91a7dd978431647ee034540832747305bb9fb4"
+    },
+    {
       "path": "client/required/particle_core-0.3.3+1.21+neoforge.jar",
       "name": "particle_core-0.3.3+1.21+neoforge.jar",
       "group": "",
@@ -634,6 +662,13 @@
       "sha1": "2fcb0234d64627d2647579bbc9d904f674b30167"
     },
     {
+      "path": "client/required/sliceanddice-4.3.3-neoforge.jar",
+      "name": "sliceanddice-4.3.3-neoforge.jar",
+      "group": "",
+      "size": 1354014,
+      "sha1": "5c1919d2d623d5d4f7ed41a5bd1640ba255ccecd"
+    },
+    {
       "path": "client/required/smallships-neoforge-1.21.1-2.0.0-b2.1.jar",
       "name": "smallships-neoforge-1.21.1-2.0.0-b2.1.jar",
       "group": "",
@@ -688,6 +723,13 @@
       "group": "",
       "size": 6276522,
       "sha1": "06d8e1d1f7f9cd8f18bebcbc7eabe8208cfeee7b"
+    },
+    {
+      "path": "client/required/unusual_furniture-1.1.2c-neoforge-1.21.1.jar",
+      "name": "unusual_furniture-1.1.2c-neoforge-1.21.1.jar",
+      "group": "",
+      "size": 2780202,
+      "sha1": "277dbda28b05837c2c39ac26605c32fd44fd49fc"
     },
     {
       "path": "client/required/xaeroworldmap-neoforge-1.21.1-1.44.2.jar",
