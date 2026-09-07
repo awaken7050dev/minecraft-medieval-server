@@ -1,7 +1,7 @@
 {
-  "generated": "2026-09-07T08:26:45.712Z",
+  "generated": "2026-09-07T15:49:54.453Z",
   "serverIp": "play.steamforge.quest",
-  "count": 104,
+  "count": 107,
   "files": [
     {
       "path": "client/optional/want-shaders-by-default/iris-neoforge-1.8.14-beta.1+mc1.21.1.jar",
@@ -84,8 +84,8 @@
       "path": "client/required/WeaponsOfMiracles-2.0.176.jar",
       "name": "WeaponsOfMiracles-2.0.176.jar",
       "group": "",
-      "size": 20934139,
-      "sha1": "310fbfcccba11c4f22e960f29620b4766901eef8"
+      "size": 20966104,
+      "sha1": "2f7abe3424e5baed6978e901b94d4e75e83a41ac"
     },
     {
       "path": "client/required/[1.21.1-neoforge]-Siege-Machines-1.33.jar",
@@ -135,6 +135,13 @@
       "group": "",
       "size": 584734,
       "sha1": "8a0563d0edcde8a81c712408603ecebc412099fb"
+    },
+    {
+      "path": "client/required/athena-neoforge-1.21.1-4.0.6.jar",
+      "name": "athena-neoforge-1.21.1-4.0.6.jar",
+      "group": "",
+      "size": 99944,
+      "sha1": "40930a37e4c43bca4518ce198bc9ce610d6c5797"
     },
     {
       "path": "client/required/azimuth-1.4.8.jar",
@@ -331,6 +338,20 @@
       "group": "",
       "size": 1111538,
       "sha1": "543f8c5e8a1b0b6490cd97b0e3924772b9c4eb2b"
+    },
+    {
+      "path": "client/required/entity_model_features-3.3.5-1.21-neoforge.jar",
+      "name": "entity_model_features-3.3.5-1.21-neoforge.jar",
+      "group": "",
+      "size": 630286,
+      "sha1": "6f57ade73cd8c39287a9d7d61e786fa7c2ecbe7c"
+    },
+    {
+      "path": "client/required/entity_texture_features-7.2.1-1.21-neoforge.jar",
+      "name": "entity_texture_features-7.2.1-1.21-neoforge.jar",
+      "group": "",
+      "size": 783217,
+      "sha1": "f660156c238935f8874eec0e7288cd713ac213e0"
     },
     {
       "path": "client/required/epic-fight-21.17.3.1-mc1.21.1-neoforge.jar",
