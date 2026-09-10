@@ -1,7 +1,7 @@
 {
-  "generated": "2026-09-09T09:11:36.601Z",
+  "generated": "2026-09-10T20:10:43.878Z",
   "serverIp": "play.steamforge.quest",
-  "count": 107,
+  "count": 128,
   "files": [
     {
       "path": "client/optional/want-shaders-by-default/iris-neoforge-1.8.14-beta.1+mc1.21.1.jar",
@@ -23,6 +23,13 @@
       "group": "",
       "size": 1589690,
       "sha1": "688303ab27e68f50490d1b4791327319fc25791d"
+    },
+    {
+      "path": "client/required/ArPhEx-5.0.2-neoforge-1.21.1.jar",
+      "name": "ArPhEx-5.0.2-neoforge-1.21.1.jar",
+      "group": "",
+      "size": 13685315,
+      "sha1": "6cb656b8b887903518b2c878503fdc69009c206d"
     },
     {
       "path": "client/required/Create Aeronautics Gyroscope Stabilizers.jar",
@@ -53,11 +60,25 @@
       "sha1": "4e32a4595af20f375e1b41301d7ca6e6e1ce76d2"
     },
     {
+      "path": "client/required/IceAndFireCE-1.1.1-1.21.1-neoforge.jar",
+      "name": "IceAndFireCE-1.1.1-1.21.1-neoforge.jar",
+      "group": "",
+      "size": 20613021,
+      "sha1": "b702d7627c181e6e9f096e0fd4c8b20e8334be4b"
+    },
+    {
       "path": "client/required/ImmediatelyFast-NeoForge-1.6.13+1.21.1.jar",
       "name": "ImmediatelyFast-NeoForge-1.6.13+1.21.1.jar",
       "group": "",
       "size": 362740,
       "sha1": "d623d1386ab010c8ca24996c1e8a8fc739b5660c"
+    },
+    {
+      "path": "client/required/Jupiter-2.2.2-neoforge.jar",
+      "name": "Jupiter-2.2.2-neoforge.jar",
+      "group": "",
+      "size": 412697,
+      "sha1": "e6f2cc16df61c1939805dd2753bde7941a4c43c9"
     },
     {
       "path": "client/required/L_Ender's Cataclysm 1.21.1-3.32.jar",
@@ -74,6 +95,13 @@
       "sha1": "dcf45168cfac086e47d8dc0776aa18b9ff17abe6"
     },
     {
+      "path": "client/required/NightFall-1.21.1-Neoforge-3.4.0.jar",
+      "name": "NightFall-1.21.1-Neoforge-3.4.0.jar",
+      "group": "",
+      "size": 52764179,
+      "sha1": "890c72d8eba7de77a282bb655b9abee0d765aeae"
+    },
+    {
       "path": "client/required/VS-Sable-HoseConnectors-0.1.8-1.21.1.jar",
       "name": "VS-Sable-HoseConnectors-0.1.8-1.21.1.jar",
       "group": "",
@@ -86,6 +114,20 @@
       "group": "",
       "size": 20966104,
       "sha1": "2f7abe3424e5baed6978e901b94d4e75e83a41ac"
+    },
+    {
+      "path": "client/required/ZCore-NeoForge-1.21.1-1.0.8.jar",
+      "name": "ZCore-NeoForge-1.21.1-1.0.8.jar",
+      "group": "",
+      "size": 1151667,
+      "sha1": "74f9ab50314a64a33e114832d6316a46c5fcfcd1"
+    },
+    {
+      "path": "client/required/ZReinforcedArmors-NeoForge-1.21.1-1.0.6.jar",
+      "name": "ZReinforcedArmors-NeoForge-1.21.1-1.0.6.jar",
+      "group": "",
+      "size": 1526946,
+      "sha1": "1dc04cedd2ecd9e1bbf4899dec9c34c26d25544e"
     },
     {
       "path": "client/required/[1.21.1-neoforge]-Siege-Machines-1.33.jar",
@@ -172,11 +214,25 @@
       "sha1": "043a124d31f03e548c3cac8da96d051f656ebac8"
     },
     {
+      "path": "client/required/cbc_at_Neoforge_1.21.1_0.1.4c.jar",
+      "name": "cbc_at_Neoforge_1.21.1_0.1.4c.jar",
+      "group": "",
+      "size": 1438535,
+      "sha1": "0d963f9c6f73e79f7cc0058f04b47c0f15b4a4e8"
+    },
+    {
       "path": "client/required/chat_heads-0.15.3-neoforge-1.21.jar",
       "name": "chat_heads-0.15.3-neoforge-1.21.jar",
       "group": "",
       "size": 89367,
       "sha1": "a6d1171e884c3540f120a58c681b7088f2eab36b"
+    },
+    {
+      "path": "client/required/cinematiccataclysm-1.0.1-1.21.1.jar",
+      "name": "cinematiccataclysm-1.0.1-1.21.1.jar",
+      "group": "",
+      "size": 70727,
+      "sha1": "fd32a46259e17173656b52345c732b2740300375"
     },
     {
       "path": "client/required/citadel-2.7.1-1.21.1.jar",
@@ -249,6 +305,13 @@
       "sha1": "f7f2a370b2e0eaf39e91c93b269aef3141408f51"
     },
     {
+      "path": "client/required/create_furnace_lava_adapter-1.21.1-1.7.0.jar",
+      "name": "create_furnace_lava_adapter-1.21.1-1.7.0.jar",
+      "group": "",
+      "size": 567930,
+      "sha1": "f8789c5b69f92f90227758e0e3abbe9d6589d4da"
+    },
+    {
       "path": "client/required/create_radar-0.4.9.4-1.21.1.jar",
       "name": "create_radar-0.4.9.4-1.21.1.jar",
       "group": "",
@@ -319,6 +382,13 @@
       "sha1": "ecde7696aa30fda894d9cd65f729d27eaf73ba9f"
     },
     {
+      "path": "client/required/createprism-1.2.2.jar",
+      "name": "createprism-1.2.2.jar",
+      "group": "",
+      "size": 1287223,
+      "sha1": "a4678264a846c7c197df4093a425d4ecc96427b5"
+    },
+    {
       "path": "client/required/curios-neoforge-9.5.1+1.21.1.jar",
       "name": "curios-neoforge-9.5.1+1.21.1.jar",
       "group": "",
@@ -361,11 +431,32 @@
       "sha1": "3ce5fd9eb5a86d18bb8886f52b2235dd419b0671"
     },
     {
+      "path": "client/required/epic-fight-dawn-day-21.17.1.2.0-neoforge.jar",
+      "name": "epic-fight-dawn-day-21.17.1.2.0-neoforge.jar",
+      "group": "",
+      "size": 31594595,
+      "sha1": "ac12617a3d04e95186fa5bc5dbfe5fd66c5871a2"
+    },
+    {
       "path": "client/required/epicfight-extra-neoforge1.21.1-1.2.2-steamforge2.jar",
       "name": "epicfight-extra-neoforge1.21.1-1.2.2-steamforge2.jar",
       "group": "",
       "size": 23100867,
       "sha1": "d1ef02def8a63fcfba87aa889b2512987d96f980"
+    },
+    {
+      "path": "client/required/epicfight-skilltree-neoforge-21.3.3-1.21.1.jar",
+      "name": "epicfight-skilltree-neoforge-21.3.3-1.21.1.jar",
+      "group": "",
+      "size": 321495,
+      "sha1": "1699a53bf200df423b5251ebd3abab764e321f3a"
+    },
+    {
+      "path": "client/required/eternalstarlight-0.9.0+1.21.1+neoforge.jar",
+      "name": "eternalstarlight-0.9.0+1.21.1+neoforge.jar",
+      "group": "",
+      "size": 53135932,
+      "sha1": "99ac708df949ddac17653a1bb7dfccd537efc5b7"
     },
     {
       "path": "client/required/evenmoreinstruments-neoforge-1.21-1.21.1-6.1.4.jar",
@@ -382,6 +473,13 @@
       "sha1": "7337d020956e127142f44471a13c97b5c164b8b2"
     },
     {
+      "path": "client/required/fdlib-1.0.9-1.21.1.jar",
+      "name": "fdlib-1.0.9-1.21.1.jar",
+      "group": "",
+      "size": 973335,
+      "sha1": "614bead50cdfeb5b033c8027912c46eafc760498"
+    },
+    {
       "path": "client/required/ferritecore-7.0.3-neoforge.jar",
       "name": "ferritecore-7.0.3-neoforge.jar",
       "group": "",
@@ -396,11 +494,11 @@
       "sha1": "a982ba3f4d6e6e30adacb8bae5659d2fc5dbe468"
     },
     {
-      "path": "client/required/frontier-fx-0.6.0.jar",
-      "name": "frontier-fx-0.6.0.jar",
+      "path": "client/required/frontier-fx-0.15.0.jar",
+      "name": "frontier-fx-0.15.0.jar",
       "group": "",
-      "size": 22167,
-      "sha1": "97aaeb99b5361bbcac75e1f7870e3d50968085ec"
+      "size": 72130,
+      "sha1": "5fba552f5fb758220437f616b7c7a097fa8b43f4"
     },
     {
       "path": "client/required/fzzy_config-0.7.6+1.21+neoforge.jar",
@@ -452,6 +550,13 @@
       "sha1": "1156f9544f5da3269030d52e8a2cecb11f041b4b"
     },
     {
+      "path": "client/required/invincible-21.15.8.2-mc1.21.1-neoforge.jar",
+      "name": "invincible-21.15.8.2-mc1.21.1-neoforge.jar",
+      "group": "",
+      "size": 245153,
+      "sha1": "d5c28d1d43e818fc6c070ae8469bec1ad0061985"
+    },
+    {
       "path": "client/required/jei-1.21.1-neoforge-19.39.0.372.jar",
       "name": "jei-1.21.1-neoforge-19.39.0.372.jar",
       "group": "",
@@ -492,6 +597,13 @@
       "group": "",
       "size": 91596,
       "sha1": "1d23da998c205da85d1765fa2a889dc60f8e2073"
+    },
+    {
+      "path": "client/required/lootr-neoforge-1.21.1-1.11.38.125.jar",
+      "name": "lootr-neoforge-1.21.1-1.11.38.125.jar",
+      "group": "",
+      "size": 1000464,
+      "sha1": "a9876d12d0e88ec30f886b9fa1f9e4c5d34b0e18"
     },
     {
       "path": "client/required/mcw-bridges-3.1.2-mc1.21.1neoforge.jar",
@@ -557,6 +669,13 @@
       "sha1": "810f0e8002540637501786a792706d8dcd4294ca"
     },
     {
+      "path": "client/required/mowziesmobs-1.21.1-1.8.2.jar",
+      "name": "mowziesmobs-1.21.1-1.8.2.jar",
+      "group": "",
+      "size": 36042925,
+      "sha1": "b9cdde2dbfe45b30f04ce2b5cdc3add8b0135a8a"
+    },
+    {
       "path": "client/required/neoforge-runiclib-1.21.1-5.0.7.jar",
       "name": "neoforge-runiclib-1.21.1-5.0.7.jar",
       "group": "",
@@ -578,11 +697,25 @@
       "sha1": "c16c3f99eec93f1d30f1c04b86ca9f5ba75d1574"
     },
     {
+      "path": "client/required/p1nero_bow-neoforge1.21.1-21.16.1.0-neoforge.jar",
+      "name": "p1nero_bow-neoforge1.21.1-21.16.1.0-neoforge.jar",
+      "group": "",
+      "size": 930658,
+      "sha1": "1f948037b54f930e60eacd6ac81c92b91f41e2de"
+    },
+    {
       "path": "client/required/palegardenupdate-1.1.7-neoforge-1.21.1.jar",
       "name": "palegardenupdate-1.1.7-neoforge-1.21.1.jar",
       "group": "",
       "size": 942171,
       "sha1": "0e91a7dd978431647ee034540832747305bb9fb4"
+    },
+    {
+      "path": "client/required/panascraftrpgmod-3.6-neoforge-1.21.1.jar",
+      "name": "panascraftrpgmod-3.6-neoforge-1.21.1.jar",
+      "group": "",
+      "size": 4213769,
+      "sha1": "c9bc48d16f35164408d82a9fc2bb09da7f942fe1"
     },
     {
       "path": "client/required/particle_core-0.3.3+1.21+neoforge.jar",
@@ -746,11 +879,25 @@
       "sha1": "277dbda28b05837c2c39ac26605c32fd44fd49fc"
     },
     {
+      "path": "client/required/uranus-2.3.1-bugfix-1.21.1-neoforge.jar",
+      "name": "uranus-2.3.1-bugfix-1.21.1-neoforge.jar",
+      "group": "",
+      "size": 856856,
+      "sha1": "7f13d25f4d11fb5f33d22f36ed794f52ad666500"
+    },
+    {
       "path": "client/required/xaeroworldmap-neoforge-1.21.1-1.44.2.jar",
       "name": "xaeroworldmap-neoforge-1.21.1-1.44.2.jar",
       "group": "",
       "size": 1418918,
       "sha1": "8031c828a44e78f4a309da97eca76b9f6740cdd0"
+    },
+    {
+      "path": "client/required/yuushya-1.21.0-neoforge-2.3.0.jar",
+      "name": "yuushya-1.21.0-neoforge-2.3.0.jar",
+      "group": "",
+      "size": 28197448,
+      "sha1": "986732c1861bdb6a872a48ca2085227cb1298c76"
     }
   ]
 }
