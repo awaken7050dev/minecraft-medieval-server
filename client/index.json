@@ -1,7 +1,7 @@
 {
-  "generated": "2026-09-11T06:55:36.907Z",
+  "generated": "2026-09-11T07:04:55.070Z",
   "serverIp": "play.steamforge.quest",
-  "count": 128,
+  "count": 127,
   "files": [
     {
       "path": "client/optional/want-shaders-by-default/iris-neoforge-1.8.14-beta.1+mc1.21.1.jar",
@@ -443,13 +443,6 @@
       "group": "",
       "size": 23100867,
       "sha1": "d1ef02def8a63fcfba87aa889b2512987d96f980"
-    },
-    {
-      "path": "client/required/epicfight-skilltree-neoforge-21.3.3-1.21.1.jar",
-      "name": "epicfight-skilltree-neoforge-21.3.3-1.21.1.jar",
-      "group": "",
-      "size": 321495,
-      "sha1": "1699a53bf200df423b5251ebd3abab764e321f3a"
     },
     {
       "path": "client/required/eternalstarlight-0.9.0+1.21.1+neoforge.jar",
