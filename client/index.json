@@ -1,15 +1,8 @@
 {
-  "generated": "2026-09-15T11:39:28.770Z",
+  "generated": "2026-09-15T11:40:17.369Z",
   "serverIp": "play.steamforge.quest",
-  "count": 127,
+  "count": 126,
   "files": [
-    {
-      "path": "client/optional/want-shaders-by-default/iris-neoforge-1.8.14-beta.1+mc1.21.1.jar",
-      "name": "iris-neoforge-1.8.14-beta.1+mc1.21.1.jar",
-      "group": "want-shaders-by-default",
-      "size": 2540723,
-      "sha1": "55e2194ee433ce8814e4a3dd199ad1dfe5f23cb6"
-    },
     {
       "path": "client/required/777-2.0.0d-steamforge9.jar",
       "name": "777-2.0.0d-steamforge9.jar",
