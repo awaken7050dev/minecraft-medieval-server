@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-15T12:55:53.462Z",
+  "generated": "2026-09-15T16:06:36.914Z",
   "serverIp": "play.steamforge.quest",
   "count": 126,
   "files": [
@@ -480,11 +480,11 @@
       "sha1": "a982ba3f4d6e6e30adacb8bae5659d2fc5dbe468"
     },
     {
-      "path": "client/required/frontier-fx-0.17.0.jar",
-      "name": "frontier-fx-0.17.0.jar",
+      "path": "client/required/frontier-fx-0.18.0.jar",
+      "name": "frontier-fx-0.18.0.jar",
       "group": "",
-      "size": 77011,
-      "sha1": "45b6bb22fe203c929272f46ed61a1b023b7966ba"
+      "size": 77246,
+      "sha1": "400dff246a933b0e428f1feed0fbeffff913b71b"
     },
     {
       "path": "client/required/fzzy_config-0.7.6+1.21+neoforge.jar",
